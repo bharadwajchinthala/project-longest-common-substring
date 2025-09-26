@@ -7,7 +7,7 @@ Enter second string: BABA
 
 Dynamic Programming Grid:
     
-    B A B A 
+  B A B A 
   
   0 0 0 0 0 
 
